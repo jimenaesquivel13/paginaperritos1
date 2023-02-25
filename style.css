@@ -1,0 +1,30 @@
+body{
+    color: #113a25;
+    background-color:#fff24c;
+    font-family:font-family: 'Montserrat', sans-serif;
+}
+h1{
+    color: #0e5f32;
+    font-size: 80px ;
+}
+
+h2{
+    color: #29913e;
+}
+
+h3{
+    color: #80d042;
+}
+
+img{
+    width: 300px; /*ancho*/
+    height: 400px; /* largo */
+    padding: 20px;
+    margin: 20px;
+}
+
+footer{
+    background-color: #ffaca0;
+    color: #002f79;
+    padding: 20px;
+}
